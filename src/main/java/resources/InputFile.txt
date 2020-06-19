@@ -1,0 +1,19 @@
+GET_RELATIONSHIP King Shan Son
+GET_RELATIONSHIP Queen Anga Daughter
+GET_RELATIONSHIP Satya Siblings
+GET_RELATIONSHIP Dritha Siblings
+GET_RELATIONSHIP Amba Siblings
+GET_RELATIONSHIP Vila Siblings
+GET_RELATIONSHIP Asva Siblings
+ADD_CHILD Chitra Jnki Female
+ADD_CHILD Satvy Kamalita123 Female
+GET_RELATIONSHIP Vasa Siblings
+GET_RELATIONSHIP Amba Son
+GET_RELATIONSHIP Chit Son
+GET_RELATIONSHIP Vyan Daughter
+GET_RELATIONSHIP Atya Maternal-Aunt
+GET_RELATIONSHIP Kriya Paternal-Aunt
+GET_RELATIONSHIP Atya Maternal-Uncle
+GET_RELATIONSHIP Kriya Paternal-Uncle
+ADD_CHILD Shiva Jnki Female
+GET_RELATIONSHIP Kamalita Paternal-Uncle
